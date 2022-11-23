@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: d76e6d783953b5445a54d8b810aa4661
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Web-3_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 70
+        width: 1315
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 80, y: 80, z: 80, w: 80}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a41a7d4aa15c784abe58a00683d9a1d
+      internalID: -1216952534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Web-3_36: -441541727
+      Web-3_27: -1426281154
+      Web-3_58: 1152001806
+      Web-3_23: -215599228
+      Web-3_5: 1023125150
+      Web-3_34: 1255104449
+      Web-3_53: 720288442
+      Web-3_44: -1196736345
+      Web-3_28: 632933139
+      Web-3_32: 1272173930
+      Web-3_33: -1754746653
+      Web-3_65: 247677497
+      Web-3_30: 1206283285
+      Web-3_37: 1711750643
+      Web-3_20: -831872207
+      Web-3_8: 1949879481
+      Web-3_15: -1014141792
+      Web-3_29: 876875901
+      Web-3_19: -1975531382
+      Web-3_3: 1329085573
+      Web-3_40: -1314267877
+      Web-3_9: -1231827076
+      Web-3_10: 150173466
+      Web-3_50: -1152484213
+      Web-3_7: 29654191
+      Web-3_4: 704445435
+      Web-3_47: 1681576658
+      Web-3_54: -492868942
+      Web-3_62: 1733102055
+      Web-3_59: -1123853470
+      Web-3_57: 1011759641
+      Web-3_17: 733294917
+      Web-3_22: 1242281395
+      Web-3_16: -433661305
+      Web-3_18: 701867149
+      Web-3_14: 2059529777
+      Web-3_39: -611321127
+      Web-3_0: 18685844
+      Web-3_24: 2074057145
+      Web-3_55: -850643781
+      Web-3_52: 1887509723
+      Web-3_13: -1390569537
+      Web-3_49: -343356885
+      Web-3_43: 1788434349
+      Web-3_63: -292781587
+      Web-3_6: -1108448807
+      Web-3_48: -1424268924
+      Web-3_51: -2086224461
+      Web-3_42: 2067640980
+      Web-3_45: 334954961
+      Web-3_35: 712019463
+      Web-3_46: 1702075790
+      Web-3_26: -1750405664
+      Web-3_12: 140549121
+      Web-3_21: 288780816
+      Web-3_61: 1022402412
+      Web-3_56: -1374107716
+      Web-3_1: 1741045980
+      Web-3_2: -1216952534
+      Web-3_11: 542002460
+      Web-3_25: -1031010077
+      Web-3_31: 409681349
+      Web-3_41: -1013550992
+      Web-3_64: 150428082
+      Web-3_60: 1138582686
+      Web-3_38: 109048983
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

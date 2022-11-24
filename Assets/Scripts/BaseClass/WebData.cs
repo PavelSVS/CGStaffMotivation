@@ -35,7 +35,7 @@ internal struct AppData {
     public int statsUser_ID { get { return statsUser_ID; } set { statsUser_ID = value; } }
 }
 
-public enum WindowsType { login, stats, qr_read, prize_demo, get_out_prize_info };
+public enum WindowsType { login, stats, qr_read, team };
 
 public interface IWindows {
     public static WindowsType w_type;
@@ -47,6 +47,7 @@ public interface IWindows {
     public void CloseWindows();
 }
 
+#region Call struct
 public class CallResult {  
     public string success;
     public string[] error = new string[0];
@@ -57,6 +58,7 @@ public class UserCallResult : CallResult {
     public UserInfo user;
 }
 
+#region UserInfo
 [System.Serializable]
 public class UserInfo {
     public int id;
@@ -88,7 +90,9 @@ public class UserInfo {
     public int available_avatars;
     public int available_avatars_games;
 }
+#endregion
 
+#region Other
 [System.Serializable]
 public class PrizeCalResult : CallResult {
     public PrizeInfo[] data;
@@ -151,3 +155,5 @@ public class WinUserInfo {
 public class StatsUserData : CallResult {
     public WinUserInfo[] _value;
 }
+#endregion
+#endregion
